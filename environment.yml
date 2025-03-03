@@ -14,7 +14,7 @@ dependencies:
   - requests
   - tabulate
   - sqlite
-  - rust
+  #- rust
   - xeus
   #- xeus-lua
   #- xeus-sqlite
