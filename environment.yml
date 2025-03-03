@@ -6,3 +6,11 @@ dependencies:
   - python=3.11
   - xeus-python
   - ipycanvas
+  - xeus-lua
+  - pandas
+  - numpy
+  - sympy
+  - requests
+  - tabulate
+  - sqlite
+  - rust
