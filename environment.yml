@@ -19,4 +19,4 @@ dependencies:
   - xeus-lua
   - xeus-sqlite
   - xeus-javascript
-  - xeus-cpp
+  #- xeus-cpp
