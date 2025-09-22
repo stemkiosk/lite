@@ -22,4 +22,5 @@ dependencies:
   #- xeus-cpp
   - pip:
     - jupyter_anywidget_pglite
+    - anywidget
 
