@@ -20,3 +20,6 @@ dependencies:
   - xeus-sqlite
   - xeus-javascript
   #- xeus-cpp
+  - pip:
+    - jupyter_anywidget_pglite
+
