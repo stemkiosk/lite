@@ -21,6 +21,7 @@ dependencies:
   #- xeus-cpp
   #- rust
 
-  #- pip:
+  - pip:
+    - jupyterlab-filesystem-access
   #  - jupyter_anywidget_pglite
   #  - anywidget
