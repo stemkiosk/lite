@@ -18,9 +18,9 @@ dependencies:
   - xeus-lua
   - xeus-sqlite
   - xeus-javascript
-  - xeus-cpp
+  #- xeus-cpp
   #- rust
-  
+
   #- pip:
   #  - jupyter_anywidget_pglite
   #  - anywidget
