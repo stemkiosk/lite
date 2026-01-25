@@ -24,4 +24,3 @@ dependencies:
   #- pip:
   #  - jupyter_anywidget_pglite
   #  - anywidget
-
