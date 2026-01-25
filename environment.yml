@@ -5,3 +5,23 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+
+  - pytest
+  - pandas
+  - numpy
+  - sympy
+  - requests
+  - tabulate
+  - sqlite
+
+  - xeus
+  - xeus-lua
+  - xeus-sqlite
+  - xeus-javascript
+  - xeus-cpp
+  #- rust
+  
+  #- pip:
+  #  - jupyter_anywidget_pglite
+  #  - anywidget
+
