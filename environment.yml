@@ -14,6 +14,8 @@ dependencies:
   - tabulate
   - sqlite
 
+  - jupyterlab_miami_nights
+
   - xeus
   - xeus-lua
   - xeus-sqlite
