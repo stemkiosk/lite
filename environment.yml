@@ -14,8 +14,6 @@ dependencies:
   - tabulate
   - sqlite
 
-  - jupyterlab_miami_nights
-
   - xeus
   - xeus-lua
   - xeus-sqlite
@@ -25,5 +23,6 @@ dependencies:
 
   - pip:
     - jupyterlab-filesystem-access
+    - jupyterlab-miami-nights
   #  - jupyter_anywidget_pglite
   #  - anywidget
